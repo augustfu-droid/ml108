@@ -14,35 +14,37 @@ Most machine learning courses either drown you in abstract symbols without geome
 
 **Ink into Stars: 108 Lectures on Machine Learning** (`墨点成星：机器学习一百零八讲`) is a 12-Part, 108-Lecture master series (~36 hours of 4K animated video + 108 full textbook chapters with hand-worked examples, derivations, exercises, and full solutions).
 
-- **All 108 Full Textbook Chapters** are open-sourced in [`./chapters/`](./chapters/) (`第001讲.md` – `第108讲.md`).
+- **All 108 Full Textbook Chapters (Chinese)** are open-sourced in [`./chapters/`](./chapters/) (`第001讲.md` – `第108讲.md`), with English textbook editions in [`./chapters_en/`](./chapters_en/).
 - **4K Video Lectures & Quantitative Deep-Dives** are streaming on our two official YouTube channels:
-  - 🌐 **English Channel ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))**: 16:9 Flagship Lectures + Vertical Math/Quant Shorts
+  - 🌐 **English Channel ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))**: 16:9 Flagship Lectures + Quantitative Finance Deep-Dives & Shorts
   - 🇨🇳 **Chinese Channel ([@InkIntoStarsCN](https://www.youtube.com/@InkIntoStarsCN))**: 《墨点成星：机器学习108讲》 + 深度量化投研与财报拆表
 
 ---
 
-## Featured 4K Video Lectures & Shorts
+## Featured 4K Video Lectures & Quantitative Deep-Dives
 
-### 1. English Flagship Lectures ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))
-| Lec | Lecture Title | Core Mathematics & Engineering | Watch on YouTube |
+### 1. English Flagship Lectures & Quant Research ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))
+| Lec / Ep | Title | Core Mathematics & Quantitative Focus | Watch on YouTube |
 | :--- | :--- | :--- | :--- |
-| **03** | **The Craft of Data: Feature Engineering** | Scaling, Encoding, Missingness & Signal Extraction | [▶ Watch 4K Video](https://youtu.be/X8tOadNba5A) |
-| **04** | **ML in Production: Cost-Sensitive Thresholds** | Why a 74% Model Makes $2.63M More Than a 95% Model | [▶ Watch 4K Video](https://youtu.be/RZRsAK6jeLI) · [⚡ Short](https://youtube.com/shorts/8YKCfK8O9rc) |
-| **05** | **Vectors & Inner Products** | Geometric Projection, Cosine Similarity & Norms | [▶ Watch 4K Video](https://youtu.be/-2caJB_28uM) |
-| **06** | **NumPy & High-Dimensional Arrays** | Strides, Broadcasting & Vectorized Matrix Ops | [▶ Watch 4K Video](https://youtu.be/o3-bd34pH6g) |
-| **07** | **Pandas & Financial Time-Series Wrangling** | Multi-Index Alignment, Rolling Windows & Joins | [▶ Watch 4K Video](https://youtu.be/y5wIvhBbd5g) |
-| **08** | **Visualizing High-Dimensional Data** | Anscombe's Quartet, Distributions & Visual Truth | [▶ Watch 4K Video](https://youtu.be/5zCE-12aB5k) |
-| **09** | **Scikit-Learn Pipelines & Data Leakage** | How Data Leakage Gets 81% Accuracy on Pure Noise | [▶ Watch 4K Video](https://youtu.be/LrPGndkRL-c) · [⚡ Short](https://youtube.com/shorts/S8BNIuqEpXE) |
-| **10** | **End-to-End Capstone Project** | Full-Cycle Modeling, Cross-Validation & Diagnostics | [▶ Watch 4K Video](https://youtu.be/cX2nVbdT6mY) |
-| **12** | **The Axis That Never Turns: Eigenvalues** | Eigenvectors, Spectral Decomposition & PageRank | [▶ Watch 4K Video](https://youtu.be/4MUeEWorjgc) · [⚡ Short](https://youtube.com/shorts/z4dNWLJYVyw) |
+| **Lec 10** | **Vectors, Norms & Dot Products: The Geometry of ML** | $\ell_1, \ell_2, \ell_\infty$ Norms, Cosine Similarity & Projection | [▶ Watch 4K Video](https://youtu.be/NLsVZ6exHlY) |
+| **Lec 11** | **Matrices as Linear Transformations** | Column Space, Rank, Determinant & Invertibility | [▶ Watch 4K Video](https://youtu.be/LT9Z75Arweg) |
+| **Lec 12** | **Eigenvalues & Eigenvectors Explained** | Spectral Theorem, Quadratic Forms & PCA Foundations | [▶ Watch 4K Video](https://youtu.be/4MUeEWorjgc) · [⚡ Short](https://youtube.com/shorts/z4dNWLJYVyw) |
+| **Lec 13** | **Singular Value Decomposition (SVD) & Low-Rank Approximation** | $A = U\Sigma V^\top$, Eckart–Young Theorem & Image Compression | [▶ Watch 4K Video](https://youtu.be/opzr_Tdujp8) |
+| **Lec 14** | **Derivatives & Partial Derivatives** | Tangent Slopes, Stationary Points & Saddle Points | [▶ Watch 4K Video](https://youtu.be/DBqubmJl9P0) |
+| **Lec 15** | **Gradients, Directional Derivatives & The Chain Rule** | Steepest Ascent, Computation Graphs & Backprop Engine | [▶ Watch 4K Video](https://youtu.be/vZTQ8Qcai0s) |
+| **Lec 91** | **How Transformer Attention Works by Hand (Q, K, V & Softmax)** | Scaled Dot-Product Attention, $\sqrt{d_k}$ & Causal Masking by Hand | [▶ Watch 4K Video](https://youtu.be/yva26kfgRrc) · [⚡ Short](https://youtube.com/shorts/lW9pmH5CQUU) |
+| **Quant 01** | **The \$0.10 AI Shockwave: DeepSeek V4.1 & Wall Street's 2000 Cisco Moment** | AI CapEx Unit Economics, Token Deflation & Hardware Cycles | [▶ Watch 4K Video](https://youtu.be/KG7a8bVL9HM) · [⚡ Short](https://youtube.com/shorts/WRqep4QaB-Y) |
+| **Quant 02** | **Check the Ledger First: Meta's -\$2.12B FCF Shock & True Buybacks** | GAAP Net Income vs. Free Cash Flow, SBC & Macro Cross-Currents | [▶ Watch 4K Video](https://youtu.be/EIzY6wfLQxc) · [⚡ Short](https://youtube.com/shorts/s6FreHANWHk) |
+| **Quant 03** | **The \$14.5B Cash Fortress Wall Street Ignored: China Shenhua** | Integrated Coal-Power-Rail-Port Cash Flow & Dividend Math | [▶ Watch 4K Video](https://youtu.be/nQuQNgCsRJc) · [⚡ Short](https://youtube.com/shorts/AD4bsA-Y3zI) |
 
 ### 2. Chinese Flagship Lectures & Quant Research ([@InkIntoStarsCN](https://www.youtube.com/@InkIntoStarsCN))
 - **第 011 讲**：[空间的变形：矩阵与线性变换](https://youtu.be/Tjs4bZCITgg)（[📖 阅读讲义](./chapters/第011讲.md)）
-- **第 013 讲**：[万物皆可分解：奇异值分解 (SVD) 与宋代《松月图》低秩近似](https://youtube.com/shorts/Zn_FOIhC2zE)（[📖 阅读讲义](./chapters/第013讲.md)）
-- **第 091 讲**：[把目光放在重要处：注意力机制 (Attention) 手算推导](https://youtube.com/shorts/3yaB7K6bwi8)（[📖 阅读讲义](./chapters/第091讲.md)）
+- **第 013 讲**：[奇异值分解 (SVD) 与低秩近似：从宋代《松月图》到手算推导](https://youtu.be/ngJro9Yx4OM) · [⚡ Short](https://youtube.com/shorts/Zn_FOIhC2zE)（[📖 阅读讲义](./chapters/第013讲.md)）
+- **第 091 讲**：[把目光放在重要处：注意力机制 (Attention) 全程手算推导](https://youtu.be/hNS0pbMPPis) · [⚡ Short](https://youtube.com/shorts/3yaB7K6bwi8)（[📖 阅读讲义](./chapters/第091讲.md)）
 - **第 104 讲**：[市场里的机器学习：量化与前视偏差 (Look-Ahead Bias)](https://youtube.com/shorts/2fpvBEO70Z4)（[📖 阅读讲义](./chapters/第104讲.md)）
-- **深度量化拆表 01**：[比预测少12.5亿，却打爆95%券商预期！宝丰能源26Q3净利45.89亿硬核拆表](https://youtu.be/Uqnrq4Q5u1Q)
-- **深度周期推演 02**：[熊走之后，才是牛来｜穿越牛熊周期的底层估值与筹码逻辑](https://youtu.be/bvG_zbAzUp0)
+- **深度量化拆表 01**：[【周期筹码】年赚千亿却被当作夕阳产业？拆解中国神华“煤电路港”印钞机的终极底牌](https://youtu.be/iTf0Y3WvndE)
+- **深度量化拆表 02**：[比预测少12.5亿，却打爆95%券商预期！宝丰能源26Q3净利45.89亿硬核拆表](https://youtu.be/Uqnrq4Q5u1Q) · [⚡ Short](https://youtube.com/shorts/PHos0y_Zh_s)
+- **深度周期推演 03**：[熊走之后，才是牛来｜穿越牛熊周期的底层估值与筹码逻辑](https://youtu.be/bvG_zbAzUp0)
 
 ---
 
@@ -52,26 +54,26 @@ Most machine learning courses either drown you in abstract symbols without geome
 
 | 讲次 | 标题 | 核心内容 |
 |---|---|---|
-| [第001讲](./chapters/第001讲.md) | [**墨点成星：机器学习是什么**](./chapters/第001讲.md) · [🎬EN Video](https://www.youtube.com/@InkStarQuant) | 规则与例子；经验、任务、性能；三种学习范式；第一次训练模型 |
-| [第002讲](./chapters/第002讲.md) | [**原材料：数据、特征与标签**](./chapters/第002讲.md) · [🎬EN Video](https://www.youtube.com/@InkStarQuant) | 样本、特征、标签；结构化与非结构化数据；训练集、验证集、测试集 |
-| [第003讲](./chapters/第003讲.md) | [**三次浪潮：机器学习简史**](./chapters/第003讲.md) · [🎬EN Video](https://youtu.be/X8tOadNba5A) | 符号主义、统计学习、深度学习；几次"寒冬"与复兴 |
-| [第004讲](./chapters/第004讲.md) | [**把问题翻译成模型**](./chapters/第004讲.md) · [🎬EN Video](https://youtu.be/RZRsAK6jeLI) | 业务问题到机器学习问题；目标、指标与约束 |
-| [第005讲](./chapters/第005讲.md) | [**拿起画笔：Python 入门**](./chapters/第005讲.md) · [🎬EN Video](https://youtu.be/-2caJB_28uM) | 变量、函数、列表、字典、控制流 |
-| [第006讲](./chapters/第006讲.md) | [**数组的力量：NumPy**](./chapters/第006讲.md) · [🎬EN Video](https://youtu.be/o3-bd34pH6g) | 向量化运算、广播、索引与切片 |
-| [第007讲](./chapters/第007讲.md) | [**表格的语言：Pandas**](./chapters/第007讲.md) · [🎬EN Video](https://youtu.be/y5wIvhBbd5g) | 读写数据、筛选、分组聚合、合并 |
-| [第008讲](./chapters/第008讲.md) | [**看见数据：可视化**](./chapters/第008讲.md) · [🎬EN Video](https://youtu.be/5zCE-12aB5k) | Matplotlib 与 Seaborn；分布、关系、对比 |
-| [第009讲](./chapters/第009讲.md) | [**全景地图：scikit-learn**](./chapters/第009讲.md) · [🎬EN Video](https://youtu.be/LrPGndkRL-c) | 统一接口 fit 与 predict；一个完整的小项目 |
+| [第001讲](./chapters/第001讲.md) | [**墨点成星：机器学习是什么**](./chapters/第001讲.md) · [📖EN Text](./chapters_en/Lecture_001_EN.md) | 规则与例子；经验、任务、性能；三种学习范式；第一次训练模型 |
+| [第002讲](./chapters/第002讲.md) | [**原材料：数据、特征与标签**](./chapters/第002讲.md) · [📖EN Text](./chapters_en/Lecture_002_EN.md) | 样本、特征、标签；结构化与非结构化数据；训练集、验证集、测试集 |
+| [第003讲](./chapters/第003讲.md) | [**三次浪潮：机器学习简史**](./chapters/第003讲.md) | 符号主义、统计学习、深度学习；几次"寒冬"与复兴 |
+| [第004讲](./chapters/第004讲.md) | [**把问题翻译成模型**](./chapters/第004讲.md) | 业务问题到机器学习问题；目标、指标与约束 |
+| [第005讲](./chapters/第005讲.md) | [**拿起画笔：Python 入门**](./chapters/第005讲.md) | 变量、函数、列表、字典、控制流 |
+| [第006讲](./chapters/第006讲.md) | [**数组的力量：NumPy**](./chapters/第006讲.md) | 向量化运算、广播、索引与切片 |
+| [第007讲](./chapters/第007讲.md) | [**表格的语言：Pandas**](./chapters/第007讲.md) | 读写数据、筛选、分组聚合、合并 |
+| [第008讲](./chapters/第008讲.md) | [**看见数据：可视化**](./chapters/第008讲.md) | Matplotlib 与 Seaborn；分布、关系、对比 |
+| [第009讲](./chapters/第009讲.md) | [**全景地图：scikit-learn**](./chapters/第009讲.md) | 统一接口 fit 与 predict；一个完整的小项目 |
 
 ### 第二篇　数学之基：看懂公式的底气（第10—18讲）
 
 | 讲次 | 标题 | 核心内容 |
 |---|---|---|
-| [第010讲](./chapters/第010讲.md) | [**有方向的数：向量与点积**](./chapters/第010讲.md) · [🎬EN Video](https://youtu.be/cX2nVbdT6mY) | 向量、范数、点积与夹角、余弦相似度 |
-| [第011讲](./chapters/第011讲.md) | [**空间的变形：矩阵与线性变换**](./chapters/第011讲.md) · [🎬中文视频](https://youtu.be/Tjs4bZCITgg) | 矩阵乘法、转置、逆矩阵的几何意义 |
+| [第010讲](./chapters/第010讲.md) | [**有方向的数：向量与点积**](./chapters/第010讲.md) · [🎬EN Video](https://youtu.be/NLsVZ6exHlY) | 向量、范数、点积与夹角、余弦相似度 |
+| [第011讲](./chapters/第011讲.md) | [**空间的变形：矩阵与线性变换**](./chapters/第011讲.md) · [🎬中文视频](https://youtu.be/Tjs4bZCITgg) [🎬EN Video](https://youtu.be/LT9Z75Arweg) | 矩阵乘法、转置、逆矩阵的几何意义 |
 | [第012讲](./chapters/第012讲.md) | [**不变的方向：特征值与特征向量**](./chapters/第012讲.md) · [🎬EN Video](https://youtu.be/4MUeEWorjgc) | 特征分解、对称矩阵、二次型 |
-| [第013讲](./chapters/第013讲.md) | [**万物皆可分解：奇异值分解**](./chapters/第013讲.md) · [🎬中文视频](https://youtube.com/shorts/Zn_FOIhC2zE) | SVD、低秩近似、图像压缩 |
-| [第014讲](./chapters/第014讲.md) | [**变化的速度：导数与偏导数**](./chapters/第014讲.md) | 导数、偏导、极值条件 |
-| [第015讲](./chapters/第015讲.md) | [**最陡的方向：梯度与链式法则**](./chapters/第015讲.md) | 梯度、方向导数、复合函数求导 |
+| [第013讲](./chapters/第013讲.md) | [**万物皆可分解：奇异值分解**](./chapters/第013讲.md) · [🎬中文视频](https://youtu.be/ngJro9Yx4OM) [🎬EN Video](https://youtu.be/opzr_Tdujp8) | SVD、低秩近似、图像压缩 |
+| [第014讲](./chapters/第014讲.md) | [**变化的速度：导数与偏导数**](./chapters/第014讲.md) · [🎬EN Video](https://youtu.be/DBqubmJl9P0) | 导数、偏导、极值条件 |
+| [第015讲](./chapters/第015讲.md) | [**最陡的方向：梯度与链式法则**](./chapters/第015讲.md) · [🎬EN Video](https://youtu.be/vZTQ8Qcai0s) | 梯度、方向导数、复合函数求导 |
 | [第016讲](./chapters/第016讲.md) | [**不确定的语言：概率基础**](./chapters/第016讲.md) | 样本空间、条件概率、独立性、贝叶斯公式 |
 | [第017讲](./chapters/第017讲.md) | [**分布的形状：随机变量与期望**](./chapters/第017讲.md) | 伯努利、二项、正态分布；期望、方差、协方差 |
 | [第018讲](./chapters/第018讲.md) | [**从数据反推世界：最大似然与信息论**](./chapters/第018讲.md) | 似然函数、最大似然估计、熵、交叉熵、KL 散度 |
@@ -192,7 +194,7 @@ Most machine learning courses either drown you in abstract symbols without geome
 
 | 讲次 | 标题 | 核心内容 |
 |---|---|---|
-| [第091讲](./chapters/第091讲.md) | [**把目光放在重要处：注意力机制**](./chapters/第091讲.md) · [🎬中文视频](https://youtube.com/shorts/3yaB7K6bwi8) | 查询、键、值；注意力权重 |
+| [第091讲](./chapters/第091讲.md) | [**把目光放在重要处：注意力机制**](./chapters/第091讲.md) · [🎬中文视频](https://youtu.be/hNS0pbMPPis) [🎬EN Video](https://youtu.be/yva26kfgRrc) | 查询、键、值；注意力权重 |
 | [第092讲](./chapters/第092讲.md) | [**一眼看全文：Transformer**](./chapters/第092讲.md) | 自注意力、多头、位置编码、残差与归一化 |
 | [第093讲](./chapters/第093讲.md) | [**两条路线：BERT 与 GPT**](./chapters/第093讲.md) | 编码器与解码器、掩码语言模型、自回归 |
 | [第094讲](./chapters/第094讲.md) | [**读遍天下书：预训练与规模定律**](./chapters/第094讲.md) | 自监督、下一个词预测、规模定律、涌现 |
