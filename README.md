@@ -1,10 +1,21 @@
 # Ink into Stars: 108 Lectures on Machine Learning
 ### *Complete 108-Chapter Open-Source Textbook, Hand-Calculated Math Derivations & 4K Video Course*
 
-[![YouTube English Channel](https://img.shields.io/badge/YouTube-InkStar%20Quant%20(EN)-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkStarQuant)
-[![YouTube Chinese Channel](https://img.shields.io/badge/YouTube-%E5%A2%A8%E7%82%B9%E6%88%90%E6%98%9F%20%7C%20%E5%A4%A7%E9%98%9F%E9%95%BF%20(CN)-C8483B?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkIntoStarsCN)
+[![YouTube Chinese Science & AI](https://img.shields.io/badge/YouTube-%E5%A2%A8%E7%82%B9%E6%88%90%E6%98%9F%C2%B7%E7%A7%91%E5%AD%A6%E4%B8%8EAI%20%28%40InkStarSciAICN%29-C8483B?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkStarSciAICN?sub_confirmation=1)
+[![YouTube English Science & AI](https://img.shields.io/badge/YouTube-InkStar%20Science%20%26%20AI%20%28%40InkStarSciAI%29-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@InkStarSciAI?sub_confirmation=1)
+[![Chinese Course Playlist](https://img.shields.io/badge/Playlist-%E4%B8%AD%E6%96%87%20108%20%E8%AE%B2%E5%AE%98%E6%96%B9%E7%B3%BB%E5%88%97-2B5B84?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLB52YSkb7icg)
+[![English Course Playlist](https://img.shields.io/badge/Playlist-English%20108%20Lectures-1F6FEB?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLQ8UeKfoqQSw)
 
-> 📖 **[中文版完整目录 (Chinese README)](./README_CN.md)** | 🎬 **[English YouTube (@InkStarQuant)](https://www.youtube.com/@InkStarQuant)** | 🎬 **[中文 YouTube (@InkIntoStarsCN)](https://www.youtube.com/@InkIntoStarsCN)**
+> [!TIP]
+> **🎬 Official 4K Video Course & Playlists（配套 4K 视频课程与官方播放列表）**
+>
+> | Track / 语言轨道 | Dedicated Science & AI Channel（新课首发专号） | Live Course Playlist（已上线合集连播） |
+> | :--- | :--- | :--- |
+> | **🇨🇳 中文教学轨** | [**墨点成星·科学与AI (`@InkStarSciAICN`)**](https://www.youtube.com/@InkStarSciAICN) · [订阅追更](https://www.youtube.com/@InkStarSciAICN?sub_confirmation=1) | [**▶ 《机器学习与量化理工 108 讲》官方系列 (`PLB52YSkb7icg`)**](https://www.youtube.com/playlist?list=PLB52YSkb7icg) |
+> | **🌐 English Track** | [**InkStar Science & AI (`@InkStarSciAI`)**](https://www.youtube.com/@InkStarSciAI) · [Subscribe](https://www.youtube.com/@InkStarSciAI?sub_confirmation=1) | [**▶ *108 Lectures on Machine Learning* (`PLQ8UeKfoqQSw`)**](https://www.youtube.com/playlist?list=PLQ8UeKfoqQSw) |
+>
+> *Upcoming Machine Learning 108 lectures & math derivations publish on `@InkStarSciAICN` / `@InkStarSciAI` (newly launched dedicated teaching channels; native playlists will be linked as new releases roll out). All published legacy lectures remain live in the playlists above.*  
+> 📖 **[中文版完整目录 (Chinese README)](./README_CN.md)** ｜ 📊 **Sister AI CapEx & Cost Channels**: [中文 `@InkIntoStarsCN`](https://www.youtube.com/@InkIntoStarsCN) · [English `@InkStarQuant`](https://www.youtube.com/@InkStarQuant)
 
 ---
 
@@ -15,36 +26,37 @@ Most machine learning courses either drown you in abstract symbols without geome
 **Ink into Stars: 108 Lectures on Machine Learning** (`墨点成星：机器学习一百零八讲`) is a 12-Part, 108-Lecture master series (~36 hours of 4K animated video + 108 full textbook chapters with hand-worked examples, derivations, exercises, and full solutions).
 
 - **All 108 Full Textbook Chapters (Chinese)** are open-sourced in [`./chapters/`](./chapters/) (`第001讲.md` – `第108讲.md`), with English textbook editions in [`./chapters_en/`](./chapters_en/).
-- **4K Video Lectures & Quantitative Deep-Dives** are streaming on our two official YouTube channels:
-  - 🌐 **English Channel ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))**: 16:9 Flagship Lectures + Quantitative Finance Deep-Dives & Shorts
-  - 🇨🇳 **Chinese Channel ([@InkIntoStarsCN](https://www.youtube.com/@InkIntoStarsCN))**: 《墨点成星：机器学习108讲》 + 深度量化投研与财报拆表
+- **4K Video Lectures** are distributed across our dedicated Science & AI channels and live course playlists:
+  - 🇨🇳 **中文科学/AI 专号 ([@InkStarSciAICN](https://www.youtube.com/@InkStarSciAICN))**: 《墨点成星：机器学习 108 讲》后续新课与数理/AI 手算推导首发阵地（[已上线中文系列播放列表](https://www.youtube.com/playlist?list=PLB52YSkb7icg)）
+  - 🌐 **English Science & AI Channel ([@InkStarSciAI](https://www.youtube.com/@InkStarSciAI))**: Upcoming 4K English ML 108 lectures, paper-and-pen math & Python/NumPy builds（[Live English Playlist](https://www.youtube.com/playlist?list=PLQ8UeKfoqQSw)）
 
 ---
 
-## Featured 4K Video Lectures & Quantitative Deep-Dives
+## Featured 4K Video Lectures
 
-### 1. English Flagship Lectures & Quant Research ([@InkStarQuant](https://www.youtube.com/@InkStarQuant))
-| Lec / Ep | Title | Core Mathematics & Quantitative Focus | Watch on YouTube |
+### 1. English 4K Lectures ([▶ Full Playlist `PLQ8UeKfoqQSw`](https://www.youtube.com/playlist?list=PLQ8UeKfoqQSw) · New Releases on [@InkStarSciAI](https://www.youtube.com/@InkStarSciAI))
+| Lec | Title | Core Mathematics & Engineering Focus | Watch on YouTube |
 | :--- | :--- | :--- | :--- |
+| **Lec 01** | **From Stargazers to 4D Distance by Hand** | Paradigms of ML, Feature Space & Hand-Worked Gradient Intuition | [▶ Watch 4K Video](https://youtu.be/uc1q-uyDsrw) |
+| **Lec 05** | **Hand-Coding k-NN in 15 Lines of Pure Python** | Pure-Python Distance Loops & Baseline Implementation | [▶ Watch 4K Video](https://youtu.be/DHzbvYbJUyY) |
+| **Lec 06** | **Why NumPy Arrays Run 126x Faster Than Loops** | Vectorization, Broadcasting & Memory-Contiguous Computation | [▶ Watch 4K Video](https://youtu.be/Pf1N_ZJWn6M) |
 | **Lec 10** | **Vectors, Norms & Dot Products: The Geometry of ML** | $\ell_1, \ell_2, \ell_\infty$ Norms, Cosine Similarity & Projection | [▶ Watch 4K Video](https://youtu.be/NLsVZ6exHlY) |
 | **Lec 11** | **Matrices as Linear Transformations** | Column Space, Rank, Determinant & Invertibility | [▶ Watch 4K Video](https://youtu.be/LT9Z75Arweg) |
-| **Lec 12** | **Eigenvalues & Eigenvectors Explained** | Spectral Theorem, Quadratic Forms & PCA Foundations | [▶ Watch 4K Video](https://youtu.be/4MUeEWorjgc) · [⚡ Short](https://youtube.com/shorts/z4dNWLJYVyw) |
+| **Lec 12** | **Eigenvalues & Eigenvectors Explained** | Spectral Theorem, Quadratic Forms & PCA Foundations | [▶ Watch 4K Video](https://youtu.be/4MUeEWorjgc) |
 | **Lec 13** | **Singular Value Decomposition (SVD) & Low-Rank Approximation** | $A = U\Sigma V^\top$, Eckart–Young Theorem & Image Compression | [▶ Watch 4K Video](https://youtu.be/opzr_Tdujp8) |
 | **Lec 14** | **Derivatives & Partial Derivatives** | Tangent Slopes, Stationary Points & Saddle Points | [▶ Watch 4K Video](https://youtu.be/DBqubmJl9P0) |
 | **Lec 15** | **Gradients, Directional Derivatives & The Chain Rule** | Steepest Ascent, Computation Graphs & Backprop Engine | [▶ Watch 4K Video](https://youtu.be/vZTQ8Qcai0s) |
 | **Lec 91** | **How Transformer Attention Works by Hand (Q, K, V & Softmax)** | Scaled Dot-Product Attention, $\sqrt{d_k}$ & Causal Masking by Hand | [▶ Watch 4K Video](https://youtu.be/yva26kfgRrc) · [⚡ Short](https://youtube.com/shorts/lW9pmH5CQUU) |
-| **Quant 01** | **The \$0.10 AI Shockwave: DeepSeek V4.1 & Wall Street's 2000 Cisco Moment** | AI CapEx Unit Economics, Token Deflation & Hardware Cycles | [▶ Watch 4K Video](https://youtu.be/KG7a8bVL9HM) · [⚡ Short](https://youtube.com/shorts/WRqep4QaB-Y) |
-| **Quant 02** | **Check the Ledger First: Meta's -\$2.12B FCF Shock & True Buybacks** | GAAP Net Income vs. Free Cash Flow, SBC & Macro Cross-Currents | [▶ Watch 4K Video](https://youtu.be/EIzY6wfLQxc) · [⚡ Short](https://youtube.com/shorts/s6FreHANWHk) |
-| **Quant 03** | **The \$14.5B Cash Fortress Wall Street Ignored: China Shenhua** | Integrated Coal-Power-Rail-Port Cash Flow & Dividend Math | [▶ Watch 4K Video](https://youtu.be/nQuQNgCsRJc) · [⚡ Short](https://youtube.com/shorts/AD4bsA-Y3zI) |
 
-### 2. Chinese Flagship Lectures & Quant Research ([@InkIntoStarsCN](https://www.youtube.com/@InkIntoStarsCN))
+### 2. Chinese 4K Lectures ([▶ 官方完整系列播放列表 `PLB52YSkb7icg`](https://www.youtube.com/playlist?list=PLB52YSkb7icg) · 新课首发 [@InkStarSciAICN](https://www.youtube.com/@InkStarSciAICN))
+- **第 001 讲**：[从四维空间手算梯度下降：什么是机器学习](https://youtu.be/Tz3S-LgBm0I)（[📖 阅读讲义](./chapters/第001讲.md)）
+- **第 002 讲**：[64维手写数字与独热编码：数据、特征与标签](https://youtu.be/eqNLQlRhjNo)（[📖 阅读讲义](./chapters/第002讲.md)）
+- **第 003 讲**：[四行不等式困住AI十年：感知机与异或](https://youtu.be/r9pUSgJLox8)（[📖 阅读讲义](./chapters/第003讲.md)）
+- **第 004 讲**：[74%准确率反多赚10倍：代价阈值手算](https://youtu.be/GZ0HbQ2_Dv4)（[📖 阅读讲义](./chapters/第004讲.md)）
+- **第 005 讲**：[15行Python手写K近邻算法入门](https://youtu.be/Ycwb0rnx1js)（[📖 阅读讲义](./chapters/第005讲.md)）
+- **第 006 讲**：[NumPy矩阵向量化与广播手算，零循环重写KNN提速126倍](https://youtu.be/bd7ZSg7dkJc)（[📖 阅读讲义](./chapters/第006讲.md)）
 - **第 011 讲**：[空间的变形：矩阵与线性变换](https://youtu.be/Tjs4bZCITgg)（[📖 阅读讲义](./chapters/第011讲.md)）
-- **第 013 讲**：[奇异值分解 (SVD) 与低秩近似：从宋代《松月图》到手算推导](https://youtu.be/ngJro9Yx4OM) · [⚡ Short](https://youtube.com/shorts/Zn_FOIhC2zE)（[📖 阅读讲义](./chapters/第013讲.md)）
-- **第 091 讲**：[把目光放在重要处：注意力机制 (Attention) 全程手算推导](https://youtu.be/hNS0pbMPPis) · [⚡ Short](https://youtube.com/shorts/3yaB7K6bwi8)（[📖 阅读讲义](./chapters/第091讲.md)）
-- **第 104 讲**：[市场里的机器学习：量化与前视偏差 (Look-Ahead Bias)](https://youtube.com/shorts/2fpvBEO70Z4)（[📖 阅读讲义](./chapters/第104讲.md)）
-- **深度量化拆表 01**：[【周期筹码】年赚千亿却被当作夕阳产业？拆解中国神华“煤电路港”印钞机的终极底牌](https://youtu.be/iTf0Y3WvndE)
-- **深度量化拆表 02**：[比预测少12.5亿，却打爆95%券商预期！宝丰能源26Q3净利45.89亿硬核拆表](https://youtu.be/Uqnrq4Q5u1Q) · [⚡ Short](https://youtube.com/shorts/PHos0y_Zh_s)
-- **深度周期推演 03**：[熊走之后，才是牛来｜穿越牛熊周期的底层估值与筹码逻辑](https://youtu.be/bvG_zbAzUp0)
+- **第 091 讲**：[把目光放在重要处：注意力机制 (Attention) 全程手算推导](https://youtu.be/QaojvWnT8Vo)（[📖 阅读讲义](./chapters/第091讲.md)）
 
 ---
 
@@ -71,7 +83,7 @@ Most machine learning courses either drown you in abstract symbols without geome
 | [第010讲](./chapters/第010讲.md) | [**有方向的数：向量与点积**](./chapters/第010讲.md) · [🎬EN Video](https://youtu.be/NLsVZ6exHlY) | 向量、范数、点积与夹角、余弦相似度 |
 | [第011讲](./chapters/第011讲.md) | [**空间的变形：矩阵与线性变换**](./chapters/第011讲.md) · [🎬中文视频](https://youtu.be/Tjs4bZCITgg) [🎬EN Video](https://youtu.be/LT9Z75Arweg) | 矩阵乘法、转置、逆矩阵的几何意义 |
 | [第012讲](./chapters/第012讲.md) | [**不变的方向：特征值与特征向量**](./chapters/第012讲.md) · [🎬EN Video](https://youtu.be/4MUeEWorjgc) | 特征分解、对称矩阵、二次型 |
-| [第013讲](./chapters/第013讲.md) | [**万物皆可分解：奇异值分解**](./chapters/第013讲.md) · [🎬中文视频](https://youtu.be/ngJro9Yx4OM) [🎬EN Video](https://youtu.be/opzr_Tdujp8) | SVD、低秩近似、图像压缩 |
+| [第013讲](./chapters/第013讲.md) | [**万物皆可分解：奇异值分解**](./chapters/第013讲.md) · [🎬EN Video](https://youtu.be/opzr_Tdujp8) | SVD、低秩近似、图像压缩 |
 | [第014讲](./chapters/第014讲.md) | [**变化的速度：导数与偏导数**](./chapters/第014讲.md) · [🎬EN Video](https://youtu.be/DBqubmJl9P0) | 导数、偏导、极值条件 |
 | [第015讲](./chapters/第015讲.md) | [**最陡的方向：梯度与链式法则**](./chapters/第015讲.md) · [🎬EN Video](https://youtu.be/vZTQ8Qcai0s) | 梯度、方向导数、复合函数求导 |
 | [第016讲](./chapters/第016讲.md) | [**不确定的语言：概率基础**](./chapters/第016讲.md) | 样本空间、条件概率、独立性、贝叶斯公式 |
@@ -194,7 +206,7 @@ Most machine learning courses either drown you in abstract symbols without geome
 
 | 讲次 | 标题 | 核心内容 |
 |---|---|---|
-| [第091讲](./chapters/第091讲.md) | [**把目光放在重要处：注意力机制**](./chapters/第091讲.md) · [🎬中文视频](https://youtu.be/hNS0pbMPPis) [🎬EN Video](https://youtu.be/yva26kfgRrc) | 查询、键、值；注意力权重 |
+| [第091讲](./chapters/第091讲.md) | [**把目光放在重要处：注意力机制**](./chapters/第091讲.md) · [🎬中文视频](https://youtu.be/QaojvWnT8Vo) [🎬EN Video](https://youtu.be/yva26kfgRrc) | 查询、键、值；注意力权重 |
 | [第092讲](./chapters/第092讲.md) | [**一眼看全文：Transformer**](./chapters/第092讲.md) | 自注意力、多头、位置编码、残差与归一化 |
 | [第093讲](./chapters/第093讲.md) | [**两条路线：BERT 与 GPT**](./chapters/第093讲.md) | 编码器与解码器、掩码语言模型、自回归 |
 | [第094讲](./chapters/第094讲.md) | [**读遍天下书：预训练与规模定律**](./chapters/第094讲.md) | 自监督、下一个词预测、规模定律、涌现 |
@@ -212,7 +224,7 @@ Most machine learning courses either drown you in abstract symbols without geome
 | [第101讲](./chapters/第101讲.md) | [**记住哪步好：Q 学习与 DQN**](./chapters/第101讲.md) | 贝尔曼方程、探索与利用、经验回放 |
 | [第102讲](./chapters/第102讲.md) | [**直接学策略：策略梯度与 AlphaGo**](./chapters/第102讲.md) | 策略梯度、蒙特卡洛树搜索、自我对弈 |
 | [第103讲](./chapters/第103讲.md) | [**时间之河：时间序列预测**](./chapters/第103讲.md) | 平稳性、滞后特征、时序交叉验证 |
-| [第104讲](./chapters/第104讲.md) | [**市场里的机器学习：量化与前视偏差**](./chapters/第104讲.md) · [🎬中文视频](https://youtube.com/shorts/2fpvBEO70Z4) | 因子、回测陷阱、过拟合的代价 |
+| [第104讲](./chapters/第104讲.md) | [**市场里的机器学习：量化与前视偏差**](./chapters/第104讲.md) | 因子、回测陷阱、过拟合的代价 |
 | [第105讲](./chapters/第105讲.md) | [**信任的价格：信用评分卡**](./chapters/第105讲.md) | WOE 与 IV、评分卡刻度、模型稳定性 |
 | [第106讲](./chapters/第106讲.md) | [**灯要一直亮着：部署与监控**](./chapters/第106讲.md) | 模型服务、数据漂移、再训练 |
 | [第107讲](./chapters/第107讲.md) | [**机器学习的边界：公平、隐私与责任**](./chapters/第107讲.md) | 偏见来源、公平性指标、人在回路中 |
@@ -233,3 +245,11 @@ Most machine learning courses either drown you in abstract symbols without geome
 
 ## License
 © 2026 Captain (大队长 / InkStar Quant). All 108 chapters and accompanying materials are released under CC BY-NC-SA 4.0 for educational and academic use.
+
+---
+
+## Compliance & Legal Disclaimer / 合规与免责声明
+
+> **[Compliance & Legal Disclaimer]**: This repository, its open-source lecture notes, code, and accompanying video series are personal, off-duty academic and engineering study notes on machine learning, applied mathematics, and publicly available technical literature. All content and data cited herein are 100% sourced from publicly available sources and contain zero non-public information. The views expressed are strictly the author's personal off-duty technical observations and do not represent the views, positions, or research of any employer, financial institution, or organization. This repository does not cover any PRC domestic (A-share) listed companies, Hong Kong-listed securities, or domestic financial/fund products. The author holds no positions in any entities mentioned and has no plans to initiate any positions within the next 72 hours. Nothing herein constitutes investment advice, security valuation, future price prediction, or a solicitation to buy or sell any security, fund, or financial instrument.
+
+> **【合规与免责声明】**：本仓库讲义、代码及配套视频课程系作者利用业余非工作时间完成的机器学习、应用数学与公开技术文献个人学习笔记。全部内容均 100% 源自公网公开教材、学术论文与开源资料，不涉及任何未公开信息或职务信息。本仓库纯属个人业余学术与理工科技术交流，与任何金融机构、雇主或组织无关，亦不代表任何机构立场；不涉及任何中国境内（A股）上市公司、港股标的或境内基金产品，在任何情况下均不构成任何证券、基金或其他金融产品的投资建议、要约或招揽。读者据此进行的任何判断或操作，风险完全自担。
